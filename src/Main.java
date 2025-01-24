@@ -34,7 +34,7 @@ public class Main {
         String value;
         System.out.print("Digite CPF >> ");
         value = scanner.nextLine();
-        System.out.println(Main.validarCPF(value)); ;
+        System.out.println(Main.validarCPF(value));
 
     }
 }
